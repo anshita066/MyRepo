@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		
 		<title>Ques 11</title>
-		<link rel="stylesheet" href="./styles.css" />
+	
 
         <style>
             * {
@@ -201,7 +201,6 @@
 							<img
 								src="./215x315.gif"
 								alt="gallery image 1"
-								alt="dummy image 1"
 							/>
 							<div class="caption">Image caption here</div>
 						</div>
@@ -210,7 +209,6 @@
 							<img
 								src="./215x315.gif"
 								alt="gallery image 2"
-								alt="dummy image 2"
 							/>
 							<div class="caption">Image caption here</div>
 						</div>
@@ -219,7 +217,6 @@
 							<img
 								src="./215x315.gif"
 								alt="gallery image 3"
-								alt="dummy image 3"
 							/>
 							<div class="caption">Image caption here</div>
 						</div>
@@ -228,7 +225,6 @@
 							<img
 								src="./215x315.gif"
 								alt="gallery image 4"
-								alt="dummy image 4"
 							/>
 							<div class="caption">Image caption here</div>
 						</div>
